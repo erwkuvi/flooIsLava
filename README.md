@@ -1,7 +1,5 @@
 # Floor is lava.
 
-![floorislava](https://github.com/erwkuvi/flooIsLava/blob/main/src_github/FloorIsLava.gif)
-
 This prject introduces the fundamentals of Unity game development by building a simple 3D platformer called "Floor is Lava." The player must navigate a floating pathway without touching the ground, because the floor is lava!
 
 ## Project Overview
