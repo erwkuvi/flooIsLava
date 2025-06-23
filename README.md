@@ -22,4 +22,11 @@ Learn Unity basics by designing a 3D scene, implementing player movement and jum
   
 If the player touches the floor, a "Game Over" message is shown, and the player is removed from the scene.
 
+## Getting Started
+
+- Clone this repository
+- Open the project in Unity
+- Open FloorIsLavaScene.unity
+- Press Play to start testing
+
 ![floorislava](https://github.com/erwkuvi/floorIsLava/blob/main/src_github/FloorIsLava.gif)
